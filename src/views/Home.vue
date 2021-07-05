@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center items-center h-screen">
-    <h1 class="font-bold text-7xl text-emerald-700">TAILWIND</h1>
+    <h1 class="font-bold text-7xl text-emerald-700 bg-gray-100 xs:w-auto md:w-full">TAILWIND</h1>
   </div>
 </template>
 

@@ -1,5 +1,14 @@
 <template>
-  <div class="flex justify-center items-center w-full h-screen bg-indigo-50 p-4 md:p-8">
+  <div class="w-full h-screen bg-indigo-50">
+    <Header/>
     <router-view/>
   </div>
 </template>
+
+<script>
+import Header from '@/components/Header'
+
+export default {
+  components: {Header}
+}
+</script>

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-screen bg-indigo-50">
+  <div class="w-full bg-indigo-50">
     <Header/>
     <router-view/>
   </div>

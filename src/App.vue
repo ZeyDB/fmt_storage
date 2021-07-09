@@ -8,6 +8,7 @@
 
 <script>
 import AuthLayout from '@/layouts/AuthLayout'
+import MainLayout from '@/layouts/MainLayout'
 
 export default {
   computed: {
@@ -15,6 +16,6 @@ export default {
       return (this.$route.meta.layout || 'auth') + '-layout'
     }
   },
-  components: {AuthLayout},
+  components: {AuthLayout, MainLayout},
 }
 </script>

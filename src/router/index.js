@@ -8,6 +8,7 @@ const routes = [
   {
     path: '/',
     name: 'Home',
+    meta: {layout: 'main'},
     component: Home
   },
   {
@@ -15,6 +16,12 @@ const routes = [
     name: 'login',
     meta: {layout: 'auth'},
     component: () => import('../views/Login.vue')
+  },
+  {
+    path: '/sign-up',
+    name: 'sign-up',
+    meta: {layout: 'auth'},
+    component: () => import('../views/SignUp.vue')
   }
 ]
 

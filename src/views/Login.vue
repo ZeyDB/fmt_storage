@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center items-center h-screen pl-4 pr-4 md:pl-8 md:pr-8">
     <div class="w-full max-w-sm">
-      <h1 class="text-3xl font-semibold text-center mb-8">Регистрация</h1>
+      <h1 class="text-3xl font-semibold text-center mb-8">Авторизация</h1>
       <form class="bg-white shadow-md rounded p-4 sm:p-8 mb-4">
         <div class="mb-4">
           <label class="block text-gray-700 text-sm font-bold mb-2" for="username">

@@ -28,7 +28,7 @@
           <input class="appearance-none border border-gray-300 rounded w-full py-2 px-3 text-gray-700 leading-tight  focus:outline-none focus:shadow-outline" id="repeat-password" type="password">
         </div>
         <div class="flex items-center justify-center">
-          <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
+          <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full" type="button">
             Зарегистрироваться
           </button>
         </div>

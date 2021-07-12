@@ -1,11 +1,11 @@
 <template>
-  <div class="header-2 shadow-md">
+  <header class="shadow-md">
 
     <nav class="bg-indigo-500 py-2 md:py-4">
       <div class="px-4 flex justify-between items-center">
 
         <div>
-          <router-link to="/" class="font-bold text-3xl text-white"><strong>FMT</strong> Storage</router-link>
+          <router-link to="/" class="text-2xl text-white"><strong>FMT</strong> Склад</router-link>
         </div>
 
         <div class="hidden md:flex flex-col md:flex-row mt-3 md:mt-0">
@@ -22,7 +22,7 @@
       </div>
     </nav>
 
-  </div>
+  </header>
 </template>
 
 <script>

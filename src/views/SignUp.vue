@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center items-center h-screen pl-4 pr-4 md:pl-8 md:pr-8">
+  <div class="flex justify-center items-center py-10">
     <div class="w-full max-w-sm">
       <h1 class="text-3xl font-semibold text-center mb-8">Регистрация</h1>
       <form class="bg-white shadow-md rounded p-4 sm:p-8 mb-4">

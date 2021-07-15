@@ -1,7 +1,7 @@
 <template>
   <div class="w-full bg-indigo-50">
     <Header/>
-    <main>
+    <main class="p-4">
       <router-view/>
     </main>
     <Footer/>

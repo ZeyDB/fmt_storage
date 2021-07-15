@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center items-center px-4 md:px-8 py-10 md:py-20">
+  <div class="flex justify-center items-center py-10 md:py-20">
     <div class="w-full max-w-sm">
       <h1 class="text-3xl font-semibold text-center mb-8">Авторизация</h1>
       <form class="bg-white shadow-md rounded p-4 sm:p-8 mb-4">
